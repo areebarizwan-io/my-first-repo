@@ -7,27 +7,23 @@ margin: 0;
 h2 {
 color: navy;
 }
-
 #about {
 background-color: green;
 color: red;
 }
-
 .sub_text{
 color: purple;
 }
-
 #descrip{
 background-color: rgb(181, 181, 250);
 color: rgb(1, 49, 1);
 text-align: center;
 }
-
 nav a {
 color: white;
 text-decoration: none;
 }
-
 nav a:hover {
 text-decoration: underline;
+
 }
